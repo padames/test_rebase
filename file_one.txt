@@ -1,1 +1,3 @@
 a single text file about something
+Something has happened to the rust project.
+I think it has changed name as a minimum
